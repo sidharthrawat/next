@@ -1,12 +1,12 @@
 
 
 import Image from "next/image";
-import arjit from "../../../image/arjit.png"
-import katrina from "../../../image/katrina.png"
-import magi from "../../../image/magi.png"
-import member from "../../../image/FiveMember.png"
-import nora from "../../../image/nora.png"
-import talent from "../../../image/talent.png"
+import arjit from "../../../public/image/arjit.png"
+import katrina from "../../../public/image/katrina.png"
+import magi from "../../../public/image/magi.png"
+import member from "../../../public/image/FiveMember.png"
+import nora from "../../../public/image/nora.png"
+import talent from "../../../public/image/talent.png"
 import style from "../style.module.css"
 const Test=(()=>{
   return(
